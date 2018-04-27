@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioSiigo", "ServicioSiigo\ServicioSiigo.csproj", "{A95CDCD6-7992-49CA-9EB1-9CE11FF03D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95CDCD6-7992-49CA-9EB1-9CE11FF03D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95CDCD6-7992-49CA-9EB1-9CE11FF03D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95CDCD6-7992-49CA-9EB1-9CE11FF03D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95CDCD6-7992-49CA-9EB1-9CE11FF03D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F68F206-EE5E-4091-B84E-EEF43E041FA7}
+	EndGlobalSection
+EndGlobal

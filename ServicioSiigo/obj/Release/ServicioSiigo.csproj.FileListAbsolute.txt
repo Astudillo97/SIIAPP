@@ -1,0 +1,11 @@
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\bin\ServicioSiigo.dll.config
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\bin\ServicioSiigo.dll
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\bin\ServicioSiigo.pdb
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\Interop.LCC11.dll
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.csproj.ResolveComReference.cache
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.csproj.CoreCompileInputs.cache
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.dll
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.pdb
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\bin\GoEmail.dll
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.csprojResolveAssemblyReference.cache
+C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.csproj.CopyComplete
