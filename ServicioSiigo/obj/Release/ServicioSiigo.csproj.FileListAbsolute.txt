@@ -9,3 +9,15 @@ C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Releas
 C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\bin\GoEmail.dll
 C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.csprojResolveAssemblyReference.cache
 C:\Users\Developers_1\source\repos\SIIAPP\ServicioSiigo\ServicioSiigo\obj\Release\ServicioSiigo.csproj.CopyComplete
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\bin\ServicioSiigo.dll.config
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\bin\ServicioSiigo.dll
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\bin\ServicioSiigo.pdb
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\bin\EPPlus.dll
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\bin\EPPlus.xml
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\obj\Release\ServicioSiigo.csprojResolveAssemblyReference.cache
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\obj\Release\Interop.LCC11.dll
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\obj\Release\ServicioSiigo.csproj.ResolveComReference.cache
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\obj\Release\ServicioSiigo.csproj.CoreCompileInputs.cache
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\obj\Release\ServicioSiigo.csproj.CopyComplete
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\obj\Release\ServicioSiigo.dll
+C:\Users\Developers_1\Documents\VISAP\SIIAPP\ServicioSiigo\obj\Release\ServicioSiigo.pdb

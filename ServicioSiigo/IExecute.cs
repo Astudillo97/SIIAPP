@@ -12,6 +12,8 @@ namespace ServicioSiigo
     public interface IExecute
     {
         [OperationContract]
-        string ExecuteCommand(string _Command);
+        string ExecuteCommand(string ExcelSIIGO, string RutaEmpresa, string Año, string PUSHMOV, string Norma, string Usuario, string Clave, string NombreLog, string NombreArchivoExcelEntrada, string encrypt);
+        [OperationContract]
+        string OperarCmd(string secuencia);
     }
 }

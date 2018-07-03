@@ -16,9 +16,7 @@ namespace ServicioSiigo
         DataTable ConsultaMovimiento(string nombre);
 
         [OperationContract]
-        bool RegistrarMovimiento(DataTable dat, string nombre);
-
-        [OperationContract]
-        string CrearExcelModificado(DataTable dat, string input, string ouput);
+        string RegistrarMovimiento(string plnt, DataTable dat, string path);
+        
     }
 }

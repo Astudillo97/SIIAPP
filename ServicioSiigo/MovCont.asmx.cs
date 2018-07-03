@@ -15,27 +15,22 @@ namespace ServicioSiigo
     [System.ComponentModel.ToolboxItem(false)]
     // Para permitir que se llame a este servicio web desde un script, usando ASP.NET AJAX, quite la marca de comentario de la línea siguiente. 
     // [System.Web.Script.Services.ScriptService]
-    public class MovCont : WebService,Imovcon
+    public class MovCont : WebService, Imovcon
     {
+
         [WebMethod]
         public DataTable ConsultaMovimiento(string nombre)
         {
-            Operaciones op = new Operaciones();
-            DataTable DAT= op.getExcelFile(nombre);
-            return DAT;
+            EPPLUS EP = new EPPLUS();
+            return EP.LeerExcel(nombre);
         }
         [WebMethod]
-        public bool RegistrarMovimiento(DataTable dat,string nombre)
+        public string RegistrarMovimiento(string plnt, DataTable dat, string path)
         {
-            Operaciones op = new Operaciones();
-            return op.CrearExcel(dat, nombre);
+            EPPLUS EP = new EPPLUS();
+            return EP.CrearExcel(plnt, dat, path);
         }
 
-        [WebMethod]
-        public string CrearExcelModificado(DataTable dat, string input, string ouput)
-        {
-            Operaciones op = new Operaciones();
-            return op.CrearExcelModificado(dat, input, ouput);
-        }
+
     }
 }

@@ -8,7 +8,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
-    <NameOfLastUsedPublishProfile>CustomProfile</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>CustomProfile1</NameOfLastUsedPublishProfile>
     <LastActiveSolutionConfig>Release|Any CPU</LastActiveSolutionConfig>
   </PropertyGroup>
   <ProjectExtensions>

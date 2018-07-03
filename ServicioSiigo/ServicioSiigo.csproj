@@ -43,6 +43,9 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EPPlus, Version=4.5.1.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.1\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
     <Reference Include="GoEmail">
       <HintPath>..\..\..\..\..\Documents\GitHub\VisapLineProyect\VisapLine\Archivos\GoEmail.dll</HintPath>
     </Reference>
@@ -52,6 +55,8 @@
       <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -71,17 +76,16 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Execute.svc" />
     <Content Include="ExecuteCmd.asmx" />
     <Content Include="MovCont.asmx" />
     <Content Include="Service1.svc" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
-    <Compile Include="Execute.svc.cs">
-      <DependentUpon>Execute.svc</DependentUpon>
-    </Compile>
+    <Compile Include="EPPLUS.cs" />
     <Compile Include="ExecuteCmd.asmx.cs">
       <DependentUpon>ExecuteCmd.asmx</DependentUpon>
       <SubType>Component</SubType>
@@ -107,6 +111,7 @@
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <Content Include="SiigoServicio\Consulta.xls" />
     <Content Include="SiigoServicio\plantilla.xls" />
+    <None Include="Properties\PublishProfiles\CustomProfile1.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
